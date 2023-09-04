@@ -4,6 +4,7 @@
 ### `npm start`
 
 This is my first React app written classes.
+![shopping-list](https://github.com/Egor-Ivankov/Shop-list-app/blob/main/src/scrinshots/shopping-list.png)
 
 This application implements the search inside the shopping list, shopping filters, adding new purchases without reloading the page.
 
